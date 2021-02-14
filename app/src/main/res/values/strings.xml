@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Plans</string>
+    <string name="myscreen">TextView</string>
+    <string name="Titles">TextView</string>
+    <string name="action_settings">Settings</string>
+    <string name="NewCase">+</string>
+    <string name="Case">Пример</string>
+</resources>
+
