@@ -4,6 +4,7 @@
     <item name="button2" type="id"></item>
     <item name="button3" type="id"></item>
     <item name="textView" type="id" />
+    <item name="editText" type="id" />
 
 
 </resources>
